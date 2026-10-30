@@ -62,7 +62,6 @@ class _VelocidadeState extends State<Velocidade> {
         padding: const EdgeInsets.all(16.0),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
-          mainAxisAlignment: MainAxisAlignment.center,
           children: [
             // Dropdown para escolher a unidade de medida
             const Text(

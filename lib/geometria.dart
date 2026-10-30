@@ -81,6 +81,7 @@ class _GeometriaState extends State<Geometria> {
       body: SingleChildScrollView(
         padding: const EdgeInsets.all(16.0),
         child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
             // Dropdown para selecionar a figura
